@@ -1,0 +1,2 @@
+print ("Espada, escudo, poção")
+

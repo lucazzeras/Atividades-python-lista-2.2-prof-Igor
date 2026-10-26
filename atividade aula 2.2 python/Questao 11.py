@@ -1,0 +1,6 @@
+print("********************")
+print("*       MENU       *")
+print("*  1. Jogar        *")
+print("*  2. Opções       *")
+print("*  3. Sair         *")
+print("********************")
